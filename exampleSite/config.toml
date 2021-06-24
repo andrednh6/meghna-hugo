@@ -1,5 +1,5 @@
 baseURL = "https://faundersblog.netlify.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -126,6 +126,9 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
+[[params.social]]
+icon = "ti-instagram"
+link = ""
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
